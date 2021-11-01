@@ -14,3 +14,5 @@ const middle = function(array) {
 };
 
 module.exports = middle;
+
+console.log(middle([1,2,3]))

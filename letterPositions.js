@@ -1,4 +1,3 @@
-
 const letterPositions = function(string) {
   let results = {};
   

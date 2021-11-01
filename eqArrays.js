@@ -1,4 +1,3 @@
-
 //function that comapres two array for equlity
 const eqArrays = function(array1, array2) {
 

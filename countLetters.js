@@ -1,6 +1,3 @@
-
-
-
 const countLetters = function(string) {
   string = string.split(' ').join('');
   let results = {};
@@ -15,6 +12,6 @@ const countLetters = function(string) {
   return results;
 };
 
-module.exports = countLetters
+module.exports = countLetters;
 
 

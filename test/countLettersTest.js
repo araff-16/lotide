@@ -1,6 +1,6 @@
 
-const assert = require('chai').assert
-const countLetters = require('../countLetters')
+const assert = require('chai').assert;
+const countLetters = require('../countLetters');
 
 
 //tests 
